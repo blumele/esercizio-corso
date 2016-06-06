@@ -1,0 +1,22 @@
+p {
+  color: silver;
+}
+.terzine {
+  color: violet;
+  font-style: italic;
+  line-height: 18px
+}
+.preferito {
+  font-weight: bold;
+  border: 1px dashed green;
+}
+.latino {
+  border: 1px dashed green;
+}
+img {
+  border: 3px solid red;
+  border-radius: 10px;
+}
+body {
+  font-family: fantasy;
+}

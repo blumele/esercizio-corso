@@ -1,7 +1,7 @@
 p {
   color: silver;
 }
-.terzine {
+.terzine p {
   color: violet;
   font-style: italic;
   line-height: 18px
